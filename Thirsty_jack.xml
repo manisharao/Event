@@ -47,6 +47,18 @@
      </output>
      <description>Test for Thirsty4</description>
     </test>
+    
+    <test name="Thirsty5">
+    <input>
+        5 25
+        52 91 84 66 93
+    </input>
+     <output>
+        16:2
+        186
+     </output>
+     <description>Test for Thirsty4</description>
+    </test>
 
     <score>10</score>
     <time-limit>1</time-limit>
