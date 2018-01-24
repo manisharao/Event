@@ -1,0 +1,8 @@
+Q) palindrome
+
+Find the next greater palindrome number for a given number using the same digits.If no palindrome is possible than -1
+
+Example:
+
+Input:35453
+Output:53435

@@ -1,0 +1,37 @@
+<data>
+    
+    <test name="pal1">
+    <input>34543</input>
+    <output>43534</output>
+     <description>Test for pal1</description>
+    </test>
+    
+    <test name="pal2">
+    <input>343</input>
+    <output>-1</output>
+     <description>Test for pal2</description>
+    </test>
+    
+    <test name="pal3">
+    <input>6554556</input>
+    <output>-1</output>
+     <description>Test for pal3</description>
+    </test>
+
+    <test name="pal4">
+    <input>43534</input>
+    <output>-1</output>
+     <description>Test for pal4</description>
+    </test>
+
+    <test name="pal5">
+    <input>1123211</input>
+    <output>1213121</output>
+     <description>Test for pal5</description>
+    </test>
+
+    <score>10</score>
+    <time-limit>1</time-limit>
+    <input-type>text</input-type>
+
+</data>
