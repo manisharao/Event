@@ -2,6 +2,7 @@ Q) Thirsty Jack
 
 One sunny day jack forgot to take water bottle and he spots a shop where he can buy some water. 
 In that shop bottles are there of different volumes and costs.A single bottle of type i has volume 2^(i-1) liters and costs ci rupees.The number of bottles of each type in the shop can be considered infinite.
+where i refer to index i.e. if there are 3 bottle then sizes will be 1, 2, 4 ...
 
 Now the task is to help Jack buy atleast 'L' liters with minimum cost
 
