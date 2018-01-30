@@ -30,6 +30,30 @@
      <description>Test for pal5</description>
     </test>
 
+    <test name="pal6">
+    <input>0</input>
+    <output>-1</output>
+     <description>Test for pal6</description>
+    </test>
+
+    <test name="pal7">
+    <input>1001</input>
+    <output>-1</output>
+     <description>Test for pal7</description>
+    </test>
+
+    <test name="pal8">
+    <input>-43534</input>
+    <output>-34543</output>
+     <description>Test for pal8</description>
+    </test>
+
+    <test name="pal9">
+    <input>-34543</input>
+    <output>-1</output>
+     <description>Test for pal9</description>
+    </test>
+
     <score>10</score>
     <time-limit>1</time-limit>
     <input-type>text</input-type>
