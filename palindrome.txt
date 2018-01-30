@@ -1,8 +1,14 @@
 Q) palindrome
 
-Find the next greater palindrome number for a given number using the same digits.If no palindrome is possible than -1
+Find the next greater palindrome number for a given number(N) using the same digits.If no palindrome is possible than -1.
+N is an integer number.
 
-Example:
+Example1:
 
 Input:35453
 Output:53435
+
+Example2:
+
+Input:-43534
+Output:-34543
