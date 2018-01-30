@@ -27,7 +27,7 @@
         2 2 4 3 1 5 3
     </input>
      <output>1 7 23</output>
-     <description>Test for Max2</description>
+     <description>Test for Max3</description>
     </test>
 
     <test name="Max4">
@@ -37,7 +37,7 @@
         1 2 4 1 4 1 1 9
     </input>
      <output>7 6 36</output>
-     <description>Test for Max2</description>
+     <description>Test for Max4</description>
     </test>
 
     <test name="Max5">
@@ -47,7 +47,7 @@
         1 4 3 2 5 4 3 8 1 1
     </input>
      <output>10 9 47</output>
-     <description>Test for Max2</description>
+     <description>Test for Max5</description>
     </test>
 
     <score>10</score>
