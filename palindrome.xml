@@ -1,13 +1,13 @@
 <data>
     
     <test name="pal1">
-    <input>34543</input>
+    <input>co?3d5er4!5,3</input>
     <output>43534</output>
      <description>Test for pal1</description>
     </test>
     
     <test name="pal2">
-    <input>343</input>
+    <input>nu3be4r3</input>
     <output>-1</output>
      <description>Test for pal2</description>
     </test>
@@ -19,13 +19,13 @@
     </test>
 
     <test name="pal4">
-    <input>43534</input>
+    <input>-g4e3e5k3s4</input>
     <output>-1</output>
      <description>Test for pal4</description>
     </test>
 
     <test name="pal5">
-    <input>1123211</input>
+    <input>1a1b2c3d2e11</input>
     <output>1213121</output>
      <description>Test for pal5</description>
     </test>
@@ -37,13 +37,13 @@
     </test>
 
     <test name="pal7">
-    <input>1001</input>
+    <input>a.b,1?0.01</input>
     <output>-1</output>
      <description>Test for pal7</description>
     </test>
 
     <test name="pal8">
-    <input>-43534</input>
+    <input>-4fr3e5a3k4</input>
     <output>-34543</output>
      <description>Test for pal8</description>
     </test>
@@ -52,6 +52,12 @@
     <input>-34543</input>
     <output>-1</output>
      <description>Test for pal9</description>
+    </test>
+
+    <test name="pal10">
+    <input>_34543</input>
+    <output>43534</output>
+     <description>Test for pal10</description>
     </test>
 
     <score>10</score>
