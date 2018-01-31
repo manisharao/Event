@@ -1,14 +1,18 @@
 Q) palindrome
 
-Find the next greater palindrome number for a given number(N) using the same digits.If no palindrome is possible than -1.
-N is an integer number.
+From a given alphanumeric string remove all the alphabets and special characters excluding '-' (minus) and find out the next greater palindrome number from the formed number using the same digits. If no palindrome is possible than -1
+
+
 
 Example1:
 
-Input:35453
+Input:co?3d5er4!5,3
 Output:53435
 
 Example2:
 
-Input:-43534
+Input:-g4e3e5k3s4
 Output:-34543
+
+Explanation:
+In case 1 from the given string after removing all the alphabets and special characters we get 35453 and next greater palindrome that can be formed from that number is 53435
