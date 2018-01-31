@@ -2,8 +2,8 @@ Q) Find maximum sum
 
 A and B are 2 arrays with 'N' elements say a1,a2,...an and b1,b2,...bn resp. 
 For any pair (i, j) with i, j ϵ {1, 2, ..., N} we define the segment from i to j, written as seg[i, j], to be 
-seg[i,j] = {i, i + 1, ..., j} if i ≤ j 
-seg[i,j] = {i, i + 1, ..., N, 1, 2, ...,j} if i > j.
+if i ≤ j  seg[i,j] = {i, i + 1, ..., j} 
+if i > j seg[i,j] = {i, i + 1, ..., N, 1, 2, ...,j} 
 
 Thus if N = 5 then the seg[2, 4] = {2, 3, 4} and seg[4, 2] = {4, 5, 1, 2}.
 
@@ -12,14 +12,15 @@ With each seg[i, j] we associate a formula sum[i, j] to calculate the sum :
 If i==j then, sum[i, i] = ai.
 If i ≠ j then,  sum[i, j] = ai + aj +  ∑ bk where k ϵ seg[i,j] and k!=i,j 
 
-The positions i and j contribute ai and aj, respectively, to the sum while every other position k in [i, j] contributes bk.
+The positions i and j contribute ai and aj to the sum while every other position k in seg[i, j] contributes bk.
 
 The task is to find the maximum sum.
 
 Input:
 
 The first line contains a single positive integer N.
-This is followed by a line containing N integers giving the values of the A and this is followed by a line containing N integers giving the values of the B
+Second line contains N integers of array A and
+Third line contains N integers of array B
 
 Output:
 
