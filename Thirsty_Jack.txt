@@ -6,7 +6,7 @@ In that shop bottles are there of different volumes and costs.A bottle i has cap
 Now the task is to help Jack buy atleast 'L' liters with minimum cost
 
 Input: 
-
+Input is a file which contains 2 lines.
 The first line contains two integers n and L - the number of types of bottles in the shop and the required amount of water in liters, respectively.
 The second line contains n integers - the costs of bottles of different types.
 

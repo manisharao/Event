@@ -7,8 +7,9 @@ Bob selects one of his guests A, who pairwise introduces all of his friends to e
 The task is to find the minimum number of guests that Bob has to select such that all the guests are known to each other.
 
 Input:
-
-The first line contains 2 integers n , p - n is the number of guests including Bob and p is the number of pairs of people who are friends.Each of next p lines contains 2 integers u,v which means people with numbers u and v are friends initially
+A file is given as input which contains :-
+The first line contains 2 integers n , p - n is the number of guests including Bob and p is the number of pairs of people who are friends.
+Each of next p lines contains 2 integers u,v which means people with numbers u and v are friends initially
 
 Output:
 

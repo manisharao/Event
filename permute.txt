@@ -8,8 +8,9 @@ In order to determine which of the two permutations is lexicographically smaller
 if xi <yi, where i is the first index in which the permutations x and y differ.
 
 Input:
-First line will contain the number of elements in the array
-Second line will contain the elements of the array
+Input is a file which contains 2 lines.
+The first line will contain the number of elements in the array
+The second line will contain the elements of the array
 
 Output:
 First line must contain the minimum number of elements that need to be changed

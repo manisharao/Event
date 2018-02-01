@@ -17,7 +17,7 @@ The positions i and j contribute ai and aj to the sum while every other position
 The task is to find the maximum sum.
 
 Input:
-
+Input is a file which contains 3 lines
 The first line contains a single positive integer N.
 Second line contains N integers of array A and
 Third line contains N integers of array B

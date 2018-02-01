@@ -1,7 +1,7 @@
 <data>
     
     <test name="pal1">
-    <input>co?3d5er4!5,3</input>
+    <input>co?3d45er4!,3</input>
     <output>43534</output>
      <description>Test for pal1</description>
     </test>
@@ -58,6 +58,18 @@
     <input>_34543</input>
     <output>43534</output>
      <description>Test for pal10</description>
+    </test>
+
+    <test name="pal11">
+    <input>-23-2</input>
+    <output>-1</output>
+     <description>Test for pal11</description>
+    </test>
+
+    <test name="pal12">
+    <input>_345-43</input>
+    <output>43534</output>
+     <description>Test for pal12</description>
     </test>
 
     <score>10</score>

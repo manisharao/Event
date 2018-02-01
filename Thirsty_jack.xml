@@ -1,63 +1,48 @@
 <data>
     
     <test name="Thirsty1">
-    <input>
-        4 12
-        20 30 70 90
-    </input>
+     <input>/home/autotest/autotest/programs/Thirsty_jack/Thirsty1.txt</input>
      <output>
         8:1,2:2
         150
      </output>
-     <description>Test for Thirsty1</description>
+     <description>Thirsty Jack test case 1</description>
     </test>
     
     <test name="Thirsty2">
-    <input>
-        4 3
-        10000 1000 100 10
-    </input>
+     <input>/home/autotest/autotest/programs/Thirsty_jack/Thirsty2.txt</input>
      <output>
         8:1
         10
      </output>
-     <description>Test for Thirsty2</description>
+     <description>Thirsty Jack test case 2</description>
     </test>
     
     <test name="Thirsty3">
-    <input>
-        4 3
-        10 100 1000 10000
-    </input>
+     <input>/home/autotest/autotest/programs/Thirsty_jack/Thirsty3.txt</input>
      <output>
         1:3
         30
      </output>
-     <description>Test for Thirsty3</description>
+     <description>Thirsty Jack test case 3</description>
     </test>
 
     <test name="Thirsty4">
-    <input>
-        4 8
-        5 9 12 25
-    </input>
+     <input>/home/autotest/autotest/programs/Thirsty_jack/Thirsty4.txt</input>
      <output>
         4:2
         24
      </output>
-     <description>Test for Thirsty4</description>
+     <description>Thirsty Jack test case 4</description>
     </test>
     
     <test name="Thirsty5">
-    <input>
-        5 25
-        52 91 84 66 93
-    </input>
+     <input>/home/autotest/autotest/programs/Thirsty_jack/Thirsty5.txt</input>
      <output>
         16:2
         186
      </output>
-     <description>Test for Thirsty5</description>
+     <description>Thirsty Jack test case 5</description>
     </test>
 
     <score>10</score>
