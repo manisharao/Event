@@ -45,8 +45,8 @@
      <description>Thirsty Jack test case 5</description>
     </test>
 
-    <score>10</score>
-    <time-limit>1</time-limit>
+    <score>20</score>
+    <time-limit>10</time-limit>
     <input-type>text</input-type>
     <multi-line>true</multi-line>
 

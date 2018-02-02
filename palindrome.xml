@@ -73,7 +73,7 @@
     </test>
 
     <score>10</score>
-    <time-limit>1</time-limit>
+    <time-limit>10</time-limit>
     <input-type>text</input-type>
 
 </data>
