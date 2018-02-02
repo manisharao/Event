@@ -30,6 +30,12 @@
      <description>Test for Max5</description>
     </test>
 
+    <test name="Max6">
+     <input>/home/autotest/autotest/programs/Find_maximum_sum/max6.txt</input>
+     <output>9 8 36</output>
+     <description>Test for Max5</description>
+    </test>
+
     <score>10</score>
     <time-limit>3</time-limit>
     <input-type>text</input-type>
