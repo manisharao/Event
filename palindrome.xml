@@ -1,7 +1,7 @@
 <data>
     
     <test name="pal1">
-    <input>co?3d45er4!,3</input>
+    <input>co?3d45er4,3</input>
     <output>43534</output>
      <description>Test for pal1</description>
     </test>

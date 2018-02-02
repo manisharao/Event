@@ -6,7 +6,7 @@ From a given alphanumeric string remove all the alphabets and special characters
 
 Example1:
 
-Input:co?3d5er4!5,3
+Input:co?3d5er45,3
 Output:53435
 
 Example2:
