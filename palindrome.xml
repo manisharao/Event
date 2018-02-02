@@ -20,7 +20,7 @@
 
     <test name="pal4">
     <input>-g4e3e5k3s4</input>
-    <output>-1</output>
+    <output>-34543</output>
      <description>Test for pal4</description>
     </test>
 
