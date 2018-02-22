@@ -50,7 +50,7 @@
 
     <test name="pal9">
     <input>-34543</input>
-    <output>-1</output>
+    <output>34543</output>
      <description>Test for pal9</description>
     </test>
 
