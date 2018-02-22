@@ -21,4 +21,4 @@ OUtput:-1
 
 Explanation:
 In case 1 from the given string after removing all the alphabets and special characters we get 35453 and next greater palindrome that can be formed from that number is 53435
-In case 3 after removing all spl characters the number is -232 and no palindrome can be formed so -1
+In case 3 after removing all spl characters the number is -232 and the next greater palindrome that can be formed is 232
